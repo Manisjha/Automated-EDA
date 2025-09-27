@@ -5,6 +5,27 @@ This guide summarizes key Python libraries used for automated EDA, with practica
 ---
 
 ## 🧰 Libraries & Examples
+### Libraries to install 
+```python
+!pip install pandas
+!pip install numpy
+!pip install matplotlib
+!pip install seaborn
+!pip install ydata-profiling
+!pip install sweetviz
+!pip install autoviz
+!pip install dtale
+!pip install missingno
+!pip install plotly
+!pip install scikit-learn
+!pip install dataprep
+!pip install pandas-visual-analysis
+
+```
+
+---
+
+
 
 ### 1. `pandas` — Data Manipulation
 ```python
